@@ -58,10 +58,3 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
   </a> 
 </p>
-
-
-<h3 align="left">Gallery:</h3>
-<p align="left">
-  <img src="IMAGE_URL_1" alt="Image 1" width="45%"/> 
-  <img src="IMAGE_URL_2" alt="Image 2" width="45%"/> 
-</p>

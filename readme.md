@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[path/to/your/banner/image.jpg](https://github.com/Dynamo-Dream/Dynamo-Dream/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)" alt="Banner Image">
+  <img src="(https://github.com/Dynamo-Dream/Dynamo-Dream/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)" alt="Banner Image">
 </p>
 
 <h1 align="center">Hi 👋, I'm Anish Kumar</h1>

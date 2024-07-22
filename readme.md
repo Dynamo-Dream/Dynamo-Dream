@@ -7,12 +7,12 @@
 </p>
 
 
-<h3 align="center">
+<h3 align="left">
   <a href="mailto:theanish2002kumar@gmail.com">Reach me here</a>
 </h3>
-
-<div align="center">
-  <a href="https://drive.google.com/drive/folders/1bt-GsFUg-msfpJwxqvtpaLdE8sruhcXV" target="_blank">Resume</a>
+<h3 align="left">More About Me:</h3>
+<div align="left">
+  <a href="https://drive.google.com/drive/folders/1bt-GsFUg-msfpJwxqvtpaLdE8sruhcXV" target="_blank">Go Here</a>
 </div>
 
 <h3 align="left">Connect with me:</h3>

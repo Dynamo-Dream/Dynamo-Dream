@@ -10,9 +10,9 @@
 <h3 align="left">
   <a href="mailto:theanish2002kumar@gmail.com">Reach me here</a>
 </h3>
-<h3 align="left">More About Me:</h3>
+<h3 align="left">My Resume:</h3>
 <div align="left">
-  <a href="https://drive.google.com/drive/folders/1bt-GsFUg-msfpJwxqvtpaLdE8sruhcXV" target="_blank">Go Here</a>
+  <a href="https://drive.google.com/file/d/1abRBTFRFkLYFeJeqV3szBylFP6-xfBar/view?usp=sharing" target="_blank">Get Here</a>
 </div>
 
 <h3 align="left">Connect with me:</h3>

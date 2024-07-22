@@ -2,13 +2,13 @@
   <img src="https://github.com/Dynamo-Dream/Dynamo-Dream/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" alt="Banner Image">
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=I+am+AI+Engineer;I+am+Data+Scientist;I+am+Python+Developer;I+am+Writer;" alt="Typing SVG">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=I+Love+AI;I+Love+Science;I+Love+Writing;" alt="Typing SVG">
 </p>
 
 
 <h3 align="center">
-  <a href="mailto:theanish2002kumar@gmail.com">Reach me at theanish2002kumar@gmail.com</a>
+  <a href="mailto:theanish2002kumar@gmail.com">Reach me here</a>
 </h3>
 
 <div align="center">

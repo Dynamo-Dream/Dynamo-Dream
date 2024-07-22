@@ -2,7 +2,10 @@
   <img src="https://github.com/Dynamo-Dream/Dynamo-Dream/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" alt="Banner Image">
 </p>
 
-<h1 align="center">Hi 👋, I'm Anish Kumar</h1>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=I+am+AI+Engineer;I+am+Data+Scientist;I+am+Python+Developer;I+am+Writer;" alt="Typing SVG">
+</p>
+
 
 <h3 align="center">
   <a href="mailto:theanish2002kumar@gmail.com">Reach me at theanish2002kumar@gmail.com</a>
@@ -56,10 +59,6 @@
   </a> 
 </p>
 
-<h3 align="left">About Me:</h3>
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Data+Scientist" alt="Typing SVG">
-</p>
 
 <h3 align="left">Gallery:</h3>
 <p align="left">
